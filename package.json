@@ -1,0 +1,15 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "logger ======================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "log4js": "^0.6.26",
+    "log4js_cassandra": "git+ssh://git@bitbucket.org/hcdlearning/log4js-cassandra.git#v1.0.0"
+  }
+}
