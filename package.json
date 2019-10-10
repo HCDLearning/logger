@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "log4js": "^0.6.26",
-    "log4js_cassandra": "git+ssh://git@bitbucket.org/hcdlearning/log4js-cassandra.git#v1.0.0"
+    "log4js_cassandra": "git+ssh://git@code.aliyun.com:bridgeplus/log4js-cassandra.git#v1.0.0"
   }
 }
